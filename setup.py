@@ -24,7 +24,7 @@ setup(
     name='lektor-google-search',
     packages=find_packages(),
     py_modules=['lektor_google_search'],
-    # url='[link to your repository]',
+    url='https://github.com/eldjoko/lektor-google-search',
     version='0.1',
     classifiers=[
         'Framework :: Lektor',
