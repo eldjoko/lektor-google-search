@@ -8,7 +8,7 @@ SCRIPT ='''
 '''
 
 class GoogleSearchPlugin(Plugin):
-    name = 'google-search'
+    name = 'Google Search'
     description = u'Lektor plugin to add google seach to a website'
 
     def on_setup_env(self, **extra):
