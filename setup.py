@@ -28,7 +28,9 @@ setup(
     version='0.1',
     classifiers=[
         'Framework :: Lektor',
+        'Environment :: Web Environment',
         'Environment :: Plugins',
+        'License :: OSI Approved :: MIT License',
     ],
     entry_points={
         'lektor.plugins': [

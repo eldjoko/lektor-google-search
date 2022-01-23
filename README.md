@@ -1,4 +1,4 @@
-# google-search
+# Lektor-Google-Search
 
 This plugin add support for [Google Search](https://search.google.com/search-console/about) to [Lektor CMS](https://www.getlektor.com/)
 
